@@ -1,7 +1,6 @@
 # book-store-system
 Spring Boot, ActiveMQ
 
-#To run system:
 ###1. To start ActiveMQ 
 Within root dir run the command: docker-compose up 
 
